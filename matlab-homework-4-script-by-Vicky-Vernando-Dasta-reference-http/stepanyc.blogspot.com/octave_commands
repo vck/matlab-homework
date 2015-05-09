@@ -1,0 +1,7 @@
+%Octave :
+octave:6> title('grafik dari persamaan 2x^4+3x^3-2x^2-1')
+octave:7> xlabel('X')
+octave:8> plot(x,y)
+octave:9> title('grafik dari persamaan 2x^4+3x^3-2x^2-1')
+octave:10> xlabel('X')
+octave:11> ylabel('Y')
